@@ -1,7 +1,7 @@
 # m3u8 downloader in web
 
 ![界面](http://upyun.luckly-mjw.cn/Assets/m3u8-download/01.jpeg)
-### [Tool online address](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index-en.html)，Chrome browser is recommended。
+### [Tool online address](http://zy-404.github.io/m3u8-downloader/index-en.html)，Chrome browser is recommended。
 
 ### R & D background
 - Introduction of m3u8 video format
